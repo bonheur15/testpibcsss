@@ -1,0 +1,22 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FullSocket.js",
+  
+  "scripts": {
+    "start": "node FullSocket.js",
+    "test": "node FullSocket.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^9.0.1",
+    "socket.io": "^4.2.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
